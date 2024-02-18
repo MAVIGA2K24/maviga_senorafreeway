@@ -10,4 +10,4 @@ I'm happy to introduce you to my first little project - the Senora Freeway const
 
 This small but exciting construction site right next to the Davis quartz quarry offers small special features: Closure of the freeway under the bridge. The navigation system recognizes the construction site and skillfully guides you around it. Even the NPCs' routes have been changed. You navigate skillfully around the construction site, ensuring a realistic gaming experience.
 
-Explore the construction site on the Senora Freeway! Feedback and suggestions are always welcome. Your input helps me to continually improve and create more exciting projects. 🛠️🎮
+Explore the construction site on the Senora Freeway! Feedback and suggestions are always welcome. Your input helps me to continually improve and create more exciting projects. 🛠️
