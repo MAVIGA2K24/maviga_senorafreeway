@@ -2,7 +2,7 @@
 
 <img alt="alt_text"  src="https://i.imgur.com/fpaAxVP.png" />
 
-[Discord](https://discord.gg/UuK74wcmyB) | [Github](https://github.com/MAVIGA2K24) | [YouTube](https://www.youtube.com/channel/UCR3MP8cMhS932P70I48AjsA) | [CFX](https://forum.cfx.re/u/maviga2k24) <br>
+[Discord - WORK IN PROGRESS] | [Github](https://github.com/MAVIGA2K24) | [YouTube](https://www.youtube.com/channel/UCR3MP8cMhS932P70I48AjsA) | [CFX](https://forum.cfx.re/u/maviga2k24) <br>
 
 Hello everyone,
 
